@@ -19,6 +19,8 @@ if (!output) {
   console.log("\t-s --smoothness\t(default 1.0)");
   console.log("\t-w --width\t(default 1081)");
   console.log("\t-h --height\t(default 1081)");
+  console.log("\t-l --lowerclip\t(default 0)");
+  console.log("\t-u --upperclip\t(default 0)");
   process.exit(1);
 }
 
