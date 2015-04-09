@@ -1,0 +1,11 @@
+{
+  "name": "cs-terrain-generator",
+  "description": "Generates random terrains for use in Cities: Skylines.",
+  "version": "0.0.1",
+  "bin": "./index.js",
+  "dependencies": {
+    "pngjs": "~0.4",
+    "fractal-terrain-generator": "~0.0.2",
+    "minimist": "*"
+  }
+}
