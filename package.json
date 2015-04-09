@@ -1,6 +1,14 @@
 {
   "name": "cs-terrain-generator",
   "description": "Generates random terrains for use in Cities: Skylines.",
+  "keywords": ["cities", "skylines", "terrain", "generator", "fractal", "heightmap"],
+  "homepage": "https://github.com/meltingice/cs-terrain-generator",
+  "license": "MIT",
+  "author": {
+    "name": "Ryan LeFevre",
+    "email": "meltingice8917@gmail.com",
+    "url": "https://github.com/meltingice"
+  },
   "version": "0.0.1",
   "bin": "./index.js",
   "dependencies": {
